@@ -1,0 +1,2 @@
+rootProject.name = "UASMOOP"
+include ':app'

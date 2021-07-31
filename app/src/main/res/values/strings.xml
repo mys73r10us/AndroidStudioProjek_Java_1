@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UASMOOP</string>
+    <string-array name="jumlahRodaArr">
+        <item>Roda Dua</item>
+        <item>Roda Empat</item>
+    </string-array>
+    <string-array name="rodaDua">
+        <item>Moped</item>
+        <item>Sport Bike</item>
+    </string-array>
+    <string-array name="rodaEmpat">
+        <item>SUV</item>
+        <item>Sedan</item>
+    </string-array>
+</resources>
